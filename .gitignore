@@ -1,0 +1,11 @@
+**/*.nc4
+.bash*
+.conda
+**/.ipynb_checkpoints
+data_downloads
+
+*_cache/
+/.quarto/
+/_site/
+.quarto/
+_site/
