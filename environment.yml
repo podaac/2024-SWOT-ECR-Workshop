@@ -1,0 +1,15 @@
+name: env-swot-wrkshp
+channels:
+- conda-forge
+dependencies:
+  - python=3.10
+  - xarray>=2023.12
+  - pandas
+  - h5netcdf
+  - contextily
+  - numpy
+  - matplotlib-base
+  - hvplot
+  - geopandas
+  - earthaccess>=0.8.2
+  - cartopy
