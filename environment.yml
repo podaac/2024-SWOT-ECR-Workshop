@@ -13,3 +13,4 @@ dependencies:
   - geopandas
   - earthaccess>=0.8.2
   - cartopy
+  - dask
