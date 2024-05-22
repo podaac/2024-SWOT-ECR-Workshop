@@ -39,7 +39,7 @@ In the command line or Git Bash, change the working directory to the location wh
 
 ##### Environment Set Up
 
-Before the workshop, import this Python environment onto your local machine: [https://github.com/podaac/2024-SWOT-ECR-Workshop/environment.yml](https://github.com/podaac/2024-SWOT-ECR-Workshop/environment.yml)
+Before the workshop, import this Python environment onto your local machine: [https://github.com/podaac/2024-SWOT-ECR-Workshop/blob/main/environment.yml](https://github.com/podaac/2024-SWOT-ECR-Workshop/blob/main/environment.yml)
 
 One way to do this would be through the following command in your computer’s command line: 
 
