@@ -9,7 +9,7 @@ Before the Workshop, you will need the following:
 
 An Earthdata Login account is required to access data, as well as discover restricted data, from the NASA Earthdata system. Thus, to access NASA data, you need Earthdata Login. Please visit https://urs.earthdata.nasa.gov to register and manage your Earthdata Login account. This account is free to create and only takes a moment to set up. Please remember your username and password to access the data!
 
-### **2. Fully charged laptop or tablet**
+### **2. Bring a fully charged laptop or tablet**
 
 Participation in the exercises requires a laptop or tablet. The hands-on portion of the workshop lasts about 90 minutes. We will be accessing a Jupyter Lab environment through Binder. 
 
