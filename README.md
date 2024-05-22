@@ -15,17 +15,17 @@ Participation in the exercises requires a laptop or tablet. The hands-on portion
 
 ### **3. Decide whether you would like to follow along via Binder or set up the environment on your local machine.**
 
-#### If you would like to launch a Jupyter Lab environment via Binder, you will just need to click the following link on the day of the workshop, but will be unable to save your changes:
+#### *Option 1: If you would like to launch a Jupyter Lab environment via Binder, you will just need to click the following link on the day of the workshop, but will be unable to save your changes:*
 
 *INSERT LINK*
 
-#### If you would like to follow along on your local machine instead of Binder:
+#### *Option 2: If you would like to follow along on your local machine instead of Binder, follow these instructions:*
 
 ##### Have a Python Coding Workspace on your local machine
 
 First, if you do not already have it, install [Python](https://www.python.org/downloads/) > 3.8. [Jupyter Lab](https://jupyter.org/install) deployed from [Anaconda Navigator](https://docs.anaconda.com/navigator/index.html) is a great option to work with Python Jupyter Notebooks. 
 
-##### Cloning the GitHub Repository
+##### Clone the GitHub Repository
 
 The Jupyter notebook examples we will be demonstrating are in this GitHub repository: [https://github.com/podaac/2024-SWOT-ECR-Workshop](https://github.com/podaac/2024-SWOT-ECR-Workshop)
 
