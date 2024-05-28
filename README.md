@@ -9,7 +9,7 @@ Before the Workshop, you will need the following:
 
 An Earthdata Login account is required to access data, as well as discover restricted data, from the NASA Earthdata system. Thus, to access NASA data, you need Earthdata Login. Please visit https://urs.earthdata.nasa.gov to register and manage your Earthdata Login account. This account is free to create and only takes a moment to set up. Please remember your username and password to access the data!
 
-### **2. Bring a fully charged laptop or tablet**
+### **2. A fully charged laptop or tablet**
 
 Participation in the exercises requires a laptop or tablet. The hands-on portion of the workshop lasts about 90 minutes. We will be accessing a Jupyter Lab environment through Binder. 
 
@@ -47,6 +47,6 @@ One way to do this would be through the following command in your computer’s c
 
 To activate the environment, run the following command:
 
-`conda env create --file environment.yml`
+`conda activate env-swot-wrkshp`
 
 Once you have done this, you will be able to successfully run the notebooks from the cloned repository on your local environment!
