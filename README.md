@@ -15,9 +15,9 @@ Participation in the exercises requires a laptop or tablet. The hands-on portion
 
 ### **3. Decide whether you would like to follow along via Binder or set up the environment on your local machine.**
 
-#### *Option 1: If you would like to launch a Jupyter Lab environment via Binder, you will just need to click the following link on the day of the workshop, but will be unable to save your changes:*
+#### *Option 1: If you would like to launch a Jupyter Lab environment via Binder, you will just need to click the following on the day of the workshop, but will be unable to save your changes:*
 
-*INSERT LINK*
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/podaac/2024-SWOT-ECR-Workshop/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fpodaac%2F2024-SWOT-ECR-Workshop%2Fblob%2Fmain%2FSWOTHR_localmachine.ipynb)
 
 #### *Option 2: If you would like to follow along on your local machine instead of Binder, follow these instructions:*
 
