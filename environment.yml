@@ -2,7 +2,7 @@ name: env-swot-wrkshp
 channels:
 - conda-forge
 dependencies:
-  - python=3.10
+  - python
   - xarray>=2023.12
   - pandas
   - h5netcdf
